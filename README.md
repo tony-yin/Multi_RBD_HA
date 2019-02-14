@@ -8,4 +8,4 @@
 
 如果觉得有所帮助的话，欢迎`Star`哦 ~(≧▽≦)/~
 
-[1]: http://www.tony-yin.top/2018/01/28/RBD-HA-2/
+[1]: http://www.tony-yin.site/2018/01/28/RBD-HA-2/
